@@ -21,7 +21,7 @@
 <img alt="Svelte" src="assets/corners/sveltecorners.png" height="30px" width="30px">
 <img alt="Firebase" src="assets/corners/firebasecorners.png" height="30px" width="30px">
 <img alt="Heroku" src="assets/corners/herokucorners.png" height="30px" width="30px">
-<img alt="SQL" src="assets/corners/SQLcorners.png" height="30px" width="30px">
+<img alt="SQL" src="assets/corners/sqlcorners.png" height="30px" width="30px">
 </p>
 <p float="left">
 <img alt="VSCode" src="assets/corners/vscodecorner.png" height="30px" width="30px">
