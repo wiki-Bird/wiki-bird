@@ -25,7 +25,7 @@
 <img alt="VSCode" src="assets/corners/vscodecorner.png" height="30px" width="30px">
 <img alt="Visual Studio" src="assets/corners/visualstudiocorners.png" height="30px" width="30px">
 <img alt="IntelliJ IDEA" src="assets/corners/intellijcorners.png" height="30px" width="30px">
-&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;&emsp;&nbsp;
 <img alt="Photoshop" src="assets/corners/photoshopcorners.png" height="30px" width="30px">
 <img alt="Figma" src="assets/corners/figmacorners.png" height="30px" width="30px">
 </p>
