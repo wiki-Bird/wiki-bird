@@ -1,19 +1,6 @@
 <br>
-<p align="center">
-    <table style=" border: none;" cellspacing="0" cellpadding="0" border="0">
-        <tr>
-            <td>
-                <img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-top:10px;">
-            </td>
-            <td rowspan="3">
-                <a href="https://keybored.ramiels.me/" style="font-size:25px">ramiels.me</a>
-            </td>
-        </tr>
-    </table>
-</p>
-<br>
 
----
+# <img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> [ramiels.me]() <br><br>
 
 <br>
 
@@ -25,20 +12,22 @@
 <br><br>
 
 ### 👩‍💻 I like to make stuff with
-
-<img alt="TypeScript" src="assets/typescript.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="Python" src="assets/python2.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="Rust" src="assets/rust.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="C Sharp" src="assets/csharp2.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="Svelte" src="assets/svelte2.png" style="margin-left: 20px;margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="Firebase" src="assets/firebase2.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="Heroku" src="assets/heroku.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-<img alt="SQL" src="assets/SQL.png" style="margin-right:10px; margin-top:0px; border-radius:2px;" height="30px" width="30px">
-
-<img alt="VSCode" src="assets/vscode.png" style="margin-right:10px; margin-top:5px; border-radius:2px;" height="30px" width="30px">
-<img alt="Visual Studio" src="assets/visualstudio2.png" style="margin-right:10px; margin-top:5px; border-radius:2px;" height="30px" width="30px">
-<img alt="IntelliJ IDEA" src="assets/intellij.png" style="margin-right:10px; margin-top:5px; border-radius:2px;" height="30px" width="30px">
-<img alt="Photoshop" src="assets/photoshop.png" style="margin-left: 63px;margin-right:10px; margin-top:5px; border-radius:2px;" height="30px" width="30px">
-<img alt="Figma" src="assets/figma.png" style="margin-right:10px; margin-top:5px; border-radius:2px;" height="30px" width="30px">
-
-#### 
+<p float="left">
+<img alt="TypeScript" src="assets/corners/typescriptCorners.png" height="30px" width="30px">
+<img alt="Python" src="assets/corners/pythoncorners.png" height="30px" width="30px">
+<img alt="Rust" src="assets/corners/rustcorners.png"  height="30px" width="30px">
+<img alt="C Sharp" src="assets/corners/csharpcorners.png" height="30px" width="30px">
+&emsp;&emsp;
+<img alt="Svelte" src="assets/corners/sveltecorners.png" height="30px" width="30px">
+<img alt="Firebase" src="assets/corners/firebasecorners.png" height="30px" width="30px">
+<img alt="Heroku" src="assets/corners/herokucorners.png" height="30px" width="30px">
+<img alt="SQL" src="assets/corners/SQLcorners.png" height="30px" width="30px">
+</p>
+<p float="left">
+<img alt="VSCode" src="assets/corners/vscodecorner.png" height="30px" width="30px">
+<img alt="Visual Studio" src="assets/corners/visualstudiocorners.png" height="30px" width="30px">
+<img alt="IntelliJ IDEA" src="assets/corners/intellijcorners.png" height="30px" width="30px">
+&emsp;&emsp;&emsp;&emsp;
+<img alt="Photoshop" src="assets/corners/photoshopcorners.png" height="30px" width="30px">
+<img alt="Figma" src="assets/corners/figmacorners.png" height="30px" width="30px">
+</p>
