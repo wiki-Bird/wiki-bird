@@ -1,8 +1,6 @@
-<br>
 
-# <img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> [ramiels.me]() <br><br>
+# <img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> [ramiels.me](https://ramiels.me/)<br> 
 
-<br>
 
 ### 🌱 I'm currently working on
 
@@ -12,6 +10,7 @@
 <br><br>
 
 ### 👩‍💻 I like to make stuff with
+
 <p float="left">
 <img alt="TypeScript" src="assets/corners/typescriptCorners.png" height="30px" width="30px">
 <img alt="Python" src="assets/corners/pythoncorners.png" height="30px" width="30px">
@@ -22,8 +21,7 @@
 <img alt="Firebase" src="assets/corners/firebasecorners.png" height="30px" width="30px">
 <img alt="Heroku" src="assets/corners/herokucorners.png" height="30px" width="30px">
 <img alt="SQL" src="assets/corners/sqlcorners.png" height="30px" width="30px">
-</p>
-<p float="left">
+<br>
 <img alt="VSCode" src="assets/corners/vscodecorner.png" height="30px" width="30px">
 <img alt="Visual Studio" src="assets/corners/visualstudiocorners.png" height="30px" width="30px">
 <img alt="IntelliJ IDEA" src="assets/corners/intellijcorners.png" height="30px" width="30px">
