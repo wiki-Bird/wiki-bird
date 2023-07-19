@@ -31,16 +31,4 @@
 </a></p>
 
 
-### 👩‍💻 I like to make stuff with
 
-<img alt="SQL" src="assets/corners/sqlcorners.png" height="30px" width="30px"></a>
-</p>
-<p float="left">
-<img alt="VSCode" src="assets/corners/vscodecorner.png" height="30px" width="30px">
-<img alt="Visual Studio" src="assets/corners/visualstudiocorners.png" height="30px" width="30px"></a>
-<img alt="IntelliJ IDEA" src="assets/corners/intellijcorners.png" height="30px" width="30px"></a>
-&emsp;&emsp;&emsp;&emsp;&nbsp;
-<img alt="Photoshop" src="assets/corners/photoshopcorners.png" height="30px" width="30px"></a>
-<img alt="Figma" src="assets/corners/figmacorners.png" height="30px" width="30px"></a>
-
-</p>
