@@ -1,5 +1,5 @@
 
-# <img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> [ramiels.me](https://ramiels.me/)<br> 
+# <a href="https://ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a><br> 
 
 
 ### 🌱 I'm currently working on
@@ -29,6 +29,3 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img alt="Photoshop" src="assets/corners/photoshopcorners.png" height="30px" width="30px"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img alt="Figma" src="assets/corners/figmacorners.png" height="30px" width="30px">
 </a></p>
-
-
-
