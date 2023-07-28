@@ -25,7 +25,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img alt="VSCode" src="assets/small/vscodecorner.png" height="30px" width="30px"></a>
 <a href="https://visualstudio.microsoft.com" target="_blank" rel="noopener noreferrer"><img alt="Visual Studio" src="assets/small/visualstudiocorners.png" height="30px" width="30px"></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img alt="IntelliJ IDEA" src="assets/small/intellijcorners.png" height="30px" width="30px"></a>
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+&emsp;&emsp;&emsp;&emsp;&nbsp;&thinsp;
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img alt="Photoshop" src="assets/small/photoshopcorners.png" height="30px" width="30px"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img alt="Figma" src="assets/small/figmacorners.png" height="30px" width="30px">
 </a></p>
