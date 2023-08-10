@@ -7,7 +7,6 @@
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
-<br><br>
 
 ### 👩‍💻 I like to make stuff with
 
