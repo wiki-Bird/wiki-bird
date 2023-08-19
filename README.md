@@ -1,14 +1,24 @@
 
-# <a href="https://ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a><br> 
+# <a href="https://ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
 
+Hey :) I write text, usually for computers.<br>
+[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)
 
-### 🌱 I'm currently working on
+<br>
+
+### `>`&emsp;I'm currently working on 
 
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
 
-### 👩‍💻 I like to make stuff with
+<!-- To add: -->
+<!-- ### `>`&emsp;Latest posts
+- []
+- [Induced demand on the Information Superhighway](https://ramiels.me/blog/webBloat) -->
+
+<!-- To remove: -->
+### `>`&emsp;I like to make stuff with
 
 <p float="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="TypeScript" src="assets/small/typescriptCorners.png" height="30px" width="30px"></a>
