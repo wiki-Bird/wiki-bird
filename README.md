@@ -4,7 +4,6 @@
 Hey :) I write text, usually for computers.<br>
 [hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)
 
-<br>
 
 ### `>`&emsp;I'm currently working on 
 
