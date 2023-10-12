@@ -8,8 +8,15 @@ Hey :) I write text, usually for computers.<br>
 ### `>`&emsp;I'm currently working on 
 
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
-- ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
+- ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game
+<!-- - 🕵️‍♀️ Private projects -->
+
+### `>`&emsp;I've contributed to
+- [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
+- [250kb-club](https://github.com/nkoehring/250kb-club), a club for web pages weighing no more than 250kb
+- [MDN Web Docs](https://github.com/mdn/content), detailed docuemntation for JS, HTML/CSS, and more
+
 
 <!-- To add: -->
 <!-- ### `>`&emsp;Latest posts
