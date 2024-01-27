@@ -7,9 +7,10 @@ Hey :) I write text, usually for computers.<br>
 
 ### `>`&emsp;I'm currently working on 
 
+- 🎶 [Serato DJ Pro](https://serato.com/dj/pro), the world's most popular DJ software
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
-- ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game
+<!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
 <!-- - 🕵️‍♀️ Private projects -->
 
 ### `>`&emsp;I've contributed to
@@ -39,7 +40,8 @@ Hey :) I write text, usually for computers.<br>
 <br>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img alt="VSCode" src="assets/small/vscodecorner.png" height="30px" width="30px"></a>
 <a href="https://visualstudio.microsoft.com" target="_blank" rel="noopener noreferrer"><img alt="Visual Studio" src="assets/small/visualstudiocorners.png" height="30px" width="30px"></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img alt="IntelliJ IDEA" src="assets/small/intellijcorners.png" height="30px" width="30px"></a>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener noreferrer"><img alt="XCode" src="assets/small/xcodecorners.png" height="30px" width="30px"></a>
+<!-- <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img alt="IntelliJ IDEA" src="assets/small/intellijcorners.png" height="30px" width="30px"></a> -->
 &emsp;&emsp;&emsp;&emsp;&nbsp;&thinsp;
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img alt="Photoshop" src="assets/small/photoshopcorners.png" height="30px" width="30px"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img alt="Figma" src="assets/small/figmacorners.png" height="30px" width="30px">
