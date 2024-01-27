@@ -7,7 +7,7 @@ Hey :) I write text, usually for computers.<br>
 
 ### `>`&emsp;I'm currently working on 
 
-- 🎶 [Serato DJ Pro](https://serato.com/dj/pro), the world's most popular DJ software
+- 🎶 [Serato DJ](https://serato.com/dj/pro), the world's most popular DJ software
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
 <!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
@@ -17,7 +17,6 @@ Hey :) I write text, usually for computers.<br>
 - [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
 - [250kb-club](https://github.com/nkoehring/250kb-club), a club for web pages weighing no more than 250kb
 - [MDN Web Docs](https://github.com/mdn/content), detailed docuemntation for JS, HTML/CSS, and more
-
 
 <!-- To add: -->
 <!-- ### `>`&emsp;Latest posts
