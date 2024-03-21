@@ -7,7 +7,7 @@ Hey :) I write text, usually for computers.<br>
 
 ### `>`&emsp;I'm currently working on 
 
-- 🎶 [Serato DJ](https://serato.com/dj/pro), the world's most popular DJ software
+- 🎶 [Serato DJ](https://serato.com/dj/pro)
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
 <!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
