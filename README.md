@@ -2,21 +2,21 @@
 # <a href="https://ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
 
 Hey :) I write text, usually for computers.<br>
-[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)
+[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;
 
 
-### `>`&emsp;I'm currently working on 
+### `>`&emsp;Current personal projects
 
-- 🎶 [Serato DJ](https://serato.com/dj/pro), the world's most popular DJ software
-- 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
+- 🔵 [BlueScreen](https://github.com/wiki-Bird/bluescreen), a Twitter Blue tweet/ad blocker
 - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
+- 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 <!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
-<!-- - 🕵️‍♀️ Private projects -->
 
 ### `>`&emsp;I've contributed to
 - [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
 - [250kb-club](https://github.com/nkoehring/250kb-club), a club for web pages weighing no more than 250kb
 - [MDN Web Docs](https://github.com/mdn/content), detailed docuemntation for JS, HTML/CSS, and more
+- [Serato DJ/Studio](https://serato.com/), music production and DJ software
 
 <!-- To add: -->
 <!-- ### `>`&emsp;Latest posts
