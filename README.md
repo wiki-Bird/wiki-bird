@@ -12,11 +12,12 @@ Hey :) I write text, usually for computers.<br>
 - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
 <!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
 
-### `>`&emsp;I've contributed to
+### `>`&emsp;Contributor to
 - [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
 - [250kb-club](https://github.com/nkoehring/250kb-club), a club for web pages weighing no more than 250kb
 - [MDN Web Docs](https://github.com/mdn/content), detailed docuemntation for JS, HTML/CSS, and more
 - [Serato DJ/Studio](https://serato.com/), music production and DJ software
+- [Ente Auth](https://github.com/ente-io/ente), an open source 2FA authenticator
 
 <!-- To add: -->
 <!-- ### `>`&emsp;Latest posts
