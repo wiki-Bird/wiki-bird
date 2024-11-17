@@ -1,21 +1,22 @@
 
 # <a href="https://ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
 
-Hey :) I write text, usually for computers.<br>
-[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;
+Hey :) i write text, usually for computers.<br>
+[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;[chat](https://chat.ramiels.me)&emsp;
 
 
 ### `>`&emsp;Current personal projects
 
-- 🔵 [BlueScreen](https://github.com/wiki-Bird/bluescreen), a Twitter Blue tweet/ad blocker
-- 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot
-- 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier
+- 🍃 Aether, a Bluesky web client
+- 📚 toOne, a product comparison tool
+<!-- - 🔵 [BlueScreen](https://github.com/wiki-Bird/bluescreen), a Twitter Blue tweet/ad blocker -->
+<!-- - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier -->
+<!-- - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot -->
 <!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
 
 ### `>`&emsp;Contributor to
 - [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
-- [250kb-club](https://github.com/nkoehring/250kb-club), a club for web pages weighing no more than 250kb
-- [Serato DJ/Studio](https://serato.com/), music production and DJ software
+- [250kb-club](https://github.com/nkoehring/250kb-club), a celebration of web pages weighing no more than 250kb
 
 <!-- To add: -->
 <!-- ### `>`&emsp;Latest posts
