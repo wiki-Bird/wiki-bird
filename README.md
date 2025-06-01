@@ -1,5 +1,5 @@
 
-# <a href="https://ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
+# <a href="https://hi.ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
 
 Hey :) i write text, usually for computers.<br>
 [hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;[chat](https://chat.ramiels.me)&emsp;
