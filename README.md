@@ -7,12 +7,15 @@ Hey :) i write text, usually for computers.<br>
 
 ### `>`&emsp;Current personal projects
 
-- 🍃 Aether, a Bluesky web client
-- 📚 toOne, a product comparison tool
+<!-- - 🍃 Aether, a Bluesky web client -->
+<!-- - 📚 toOne, a product comparison tool -->
 <!-- - 🔵 [BlueScreen](https://github.com/wiki-Bird/bluescreen), a Twitter Blue tweet/ad blocker -->
 <!-- - 🔗 [Zeruel](https://github.com/wiki-Bird/Zeruel), a QR-Code creator & link minifier -->
 <!-- - 😺 [Meowd](https://meowd.ramiels.me/), a powerful Discord moderation bot -->
 <!-- - ⌨️ [Keybored](https://keybored.ramiels.me/), a web based typing game -->
+- 🦋 [Spinoff Bsky](https://bsky.app/profile/thespinoff.bsky.social); pulling, formatting, & publishing The Spinoff's RSS feeds to Bluesky. The platform's largest New Zealand news account.
+- 🌐 Remoray; a mobile Transmission client
+- 👁️ Sentri; a Discord bot which scans & actions blocklisted usernames
 
 ### `>`&emsp;Contributor to
 - [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
