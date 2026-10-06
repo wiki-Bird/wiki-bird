@@ -1,9 +1,8 @@
 
 # <a href="https://hi.ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
 
-Hey :) i write text, usually for computers.<br>
+Hi :) I write text, usually for computers.<br>
 [hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;[chat](https://chat.ramiels.me)&emsp;
-
 
 ### `>`&emsp;Current personal projects
 
@@ -17,14 +16,14 @@ Hey :) i write text, usually for computers.<br>
 - 🌐 Remoray; a mobile Transmission client
 - 👁️ Sentri; a Discord bot which scans & actions blocklisted usernames
 
-### `>`&emsp;Contributor to
+### `>`&emsp;Past contributor to
 - [YASB](https://github.com/denBot/yasb), a highly configurable cross-platform status bar
 - [250kb-club](https://github.com/nkoehring/250kb-club), a celebration of web pages weighing no more than 250kb
+- [psylocke.gg](https://psylocke.gg/), a Marvel Rivals companion website
 
-<!-- To add: -->
-<!-- ### `>`&emsp;Latest posts
-- []
-- [Induced demand on the Information Superhighway](https://ramiels.me/blog/webBloat) -->
+### `>`&emsp;Latest blog posts
+- [Ranking NZ's Election Websites](https://b.txt.ramiels.me/blog/nz2026webelection/)
+- [de-FAANGing the web](https://b.txt.ramiels.me/blog/degoogle/)
 
 <3
 
