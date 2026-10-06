@@ -2,7 +2,9 @@
 # <a href="https://hi.ramiels.me/"><img alt="Ramiel" src="assets/ramiels.png" height="30px" width="30px" style="margin-right: 10px;"> ramiels.me </a>
 
 Hi :) I write text, usually for computers.<br>
-[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;[chat](https://chat.ramiels.me)&emsp;
+[hey@ramiels.me](mailto:hey@ramiels.me)&emsp;\\\\&emsp;[GPG](https://github.com/wiki-Bird.gpg)&emsp;\\\\&emsp;[Bsky](https://bsky.app/profile/ramiels.me)&emsp;<br><br>
+
+I don't use this account as often anymore; nowadays most of my work is on closed-source audio software. When I have time I work on:
 
 ### `>`&emsp;Current personal projects
 
